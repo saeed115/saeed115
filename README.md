@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="100%" hieght="100" />
+<div id="header" align="center" style="hieght: 100px;"/>
+  <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="100%"  />
 </div>
 
 <div id="badges" align="center">

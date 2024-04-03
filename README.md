@@ -20,7 +20,7 @@
 <h1  align="center">
   hey 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height: "30px !important"/>
-  I'm Saeed digeel
+  I'm Saeed Mahmoud
 </h1>
 
 
@@ -32,7 +32,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 I’m currently learning React native and threejs
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saeed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saeeddigeel)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saeed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saeedigeel)
 
 
 ---

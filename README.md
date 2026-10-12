@@ -1,12 +1,12 @@
 # Hi, I'm Saeed Mahmoud 👋
 
 **React Native Mobile Engineer** based in Jeddah, Saudi Arabia.
-I build mobile apps end-to-end, from the first screen to release on the App Store and Google Play.
+I build mobile apps end to end, from the first screen to release on the App Store and Google Play.
 
 - 📱 7+ years in software, 2+ years focused on React Native
-- 🏗️ Currently at **Sodasyat Real Estate**, where I built [Sadu](https://apps.apple.com/sa/app/%D8%B3%D8%AF%D9%88-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/id6794828319) from scratch: an owners' portal with smart-lock facility booking, a building digital twin, and maintenance tracking
+- 🏗️ Currently at **Sodasyat Real Estate**, where I built [Sadu](https://apps.apple.com/sa/app/%D8%B3%D8%AF%D9%88-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9/id6794828319) from scratch: an owners' portal with smart-lock facility booking, a building digital twin and maintenance tracking
 - 🌐 Background in web development (React, Next.js, WordPress) and REST APIs
-- 🌍 Fully Arabic (RTL) and English interfaces
+- 🌍 Multilingual apps with full RTL (Arabic) and LTR support
 
 ## 🛠️ Tech
 

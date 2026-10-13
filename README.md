@@ -14,7 +14,7 @@ I build mobile apps end to end, from the first screen to release on the App Stor
 - **Web:** React · Next.js · JavaScript · HTML · CSS
 - **Other:** REST APIs · Git · WordPress
 
-## 📂 Featured projects
+## 📂 Side projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
